@@ -1,6 +1,6 @@
-# User-centric design and analysis
+# User-centric analysis and design
 
-## Analyst
+## Analysis
 I started as an analyst in consulting, where I built user-centric thinking while creating decks for senior leaders. However, due to confidentiality, I cannot share any of those documents. At Pratham, I doubled-down on this skill in 2 ways: one, by gaining expertise in more complex tooling to communicate insights through Tableau; and two, by presenting insights to diverse consumers: field officers, teachers, pedagogy experts and the CEO. Here are some samples of my work there:
 
 1. [Program Health Monitor](https://public.tableau.com/app/profile/eshan8280/viz/RI2018-19Dashboard/RI): I built this dashboard for 3 types of consumers:
