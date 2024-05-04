@@ -16,7 +16,7 @@ I started as an analyst in consulting, where I built user-centric thinking while
 
 All Tableau dashboards I created at Pratham are [here](https://public.tableau.com/app/profile/eshan8280/vizzes) 
 
-## Design (Non-confidential)
+## UX Design
 As a part of a graduate level course in UX Design, I worked on multiple projects. More details below:
 * [Goodreads Redesign demo](https://drive.google.com/file/d/1empiZEOASZS-6cxzM8ciYSFzGpLRpSDm/view?usp=sharing), [Goodreads Redesign Figma](https://www.figma.com/proto/IhtvKTk6kZcGFazc5Scv4L/Doorway_v1?page-id=0%3A1&type=design&node-id=134-3114&viewport=165%2C230%2C0.06&t=UQJMX4bGszmnpxjx-1&scaling=scale-down&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design) 
 * [CS grad website redesign prototype](https://www.figma.com/proto/g9CJK4oENyHfU8ijF65XcO/Assignment_3?page-id=0%3A1&type=design&node-id=1-2&viewport=321%2C262%2C0.11&t=ORPRx9KaeSZf72q9-1&scaling=min-zoom&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
